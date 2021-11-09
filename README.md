@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cool-cold
+- 👀 I’m interested in golang
+- 🌱 I’m currently learning golang
